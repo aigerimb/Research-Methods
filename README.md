@@ -14,3 +14,6 @@ This repository contains papers and other resources for the Research Methods cla
 3. [Neural machine translation by jointly learning to align and translate](https://arxiv.org/abs/1409.0473)
 4. [Effective approaches to attention-based neural machine translation](https://arxiv.org/abs/1508.04025)
 5. [Convolutional sequence to sequence learning](http://proceedings.mlr.press/v70/gehring17a/gehring17a.pdf)
+
+## CV papers 
+1. [Gated Graph Sequence Neural Networks](https://arxiv.org/abs/1511.05493)
