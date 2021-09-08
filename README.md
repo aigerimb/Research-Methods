@@ -20,4 +20,4 @@ This repository contains papers and other resources for the Research Methods cla
 2. [ImageNet Classification with Deep Convolutional Neural Networks](https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)
 3. [Graph attention networks](https://arxiv.org/pdf/1710.10903.pdf)
 4. [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)
-5. 
+5. [Pay attention to MLPs](https://arxiv.org/abs/2105.08050)
