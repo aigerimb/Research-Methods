@@ -8,5 +8,9 @@ This repository contains papers and other resources for the Research Methods cla
 4. [The Ingredients of Real World Robotic Reinforcement Learning](https://openreview.net/pdf?id=rJe2syrtvS)
 5. [Concrete Problems in AI Safety, Amodei et al, 2016.](https://arxiv.org/abs/1606.06565)
 
-## NLP Papers 
-1. 
+## NLP Papers with emphasis on NMT
+1. [Attention is all you need](https://papers.nips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
+2. [Sequence to sequence model](https://papers.nips.cc/paper/2014/file/a14ac55a4f27472c5d894ec1c3c743d2-Paper.pdf)
+3. [Neural machine translation by jointly learning to align and translate](https://arxiv.org/abs/1409.0473)
+4. [Effective approaches to attention-based neural machine translation](https://arxiv.org/abs/1508.04025)
+5. [Convolutional sequence to sequence learning](http://proceedings.mlr.press/v70/gehring17a/gehring17a.pdf)
