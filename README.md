@@ -7,6 +7,7 @@ This repository contains papers and other resources for the Research Methods cla
 3. [Grandmaster level in StarCraft II using multi-agent reinforcement learning](https://www.nature.com/articles/s41586-019-1724-z.epdf?author_access_token=lZH3nqPYtWJXfDA10W0CNNRgN0jAjWel9jnR3ZoTv0PSZcPzJFGNAZhOlk4deBCKzKm70KfinloafEF1bCCXL6IIHHgKaDkaTkBcTEv7aT-wqDoG1VeO9-wO3GEoAMF9bAOt7mJ0RWQnRVMbyfgH9A%3D%3D)
 4. [The Ingredients of Real World Robotic Reinforcement Learning](https://openreview.net/pdf?id=rJe2syrtvS)
 5. [Concrete Problems in AI Safety](https://arxiv.org/abs/1606.06565)
+6. [Deep Reinforcement Learning that matters](https://arxiv.org/pdf/1709.06560.pdf)
 
 ## NLP Papers with emphasis on NMT
 1. [Attention is all you need](https://papers.nips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
@@ -14,6 +15,7 @@ This repository contains papers and other resources for the Research Methods cla
 3. [Neural machine translation by jointly learning to align and translate](https://arxiv.org/abs/1409.0473)
 4. [Effective approaches to attention-based neural machine translation](https://arxiv.org/abs/1508.04025)
 5. [Convolutional sequence to sequence learning](http://proceedings.mlr.press/v70/gehring17a/gehring17a.pdf)
+6. [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)
 
 ## CV papers 
 1. [Gated Graph Sequence Neural Networks](https://arxiv.org/abs/1511.05493)
@@ -21,3 +23,4 @@ This repository contains papers and other resources for the Research Methods cla
 3. [Graph attention networks](https://arxiv.org/pdf/1710.10903.pdf)
 4. [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)
 5. [Pay attention to MLPs](https://arxiv.org/abs/2105.08050)
+6. [Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385.pdf)
