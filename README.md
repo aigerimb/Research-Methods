@@ -11,9 +11,12 @@ This repository contains papers and other resources for the Research Methods cla
 6. [Deep reinforcement learning from human preferences](https://arxiv.org/pdf/1706.03741.pdf)
 
 ## NLP Papers 
+1. [WinoGrande: An Adversarial Winograd Schema Challenge at Scale](https://arxiv.org/pdf/1907.10641.pdf)
 2. [Effective approaches to attention-based neural machine translation](https://arxiv.org/abs/1508.04025)
 3. [Convolutional sequence to sequence learning](http://proceedings.mlr.press/v70/gehring17a/gehring17a.pdf)
 4. [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)
+5. [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/pdf/1910.10683.pdf)
+6. [Reformer: The Efficient Transformer](https://arxiv.org/pdf/2001.04451.pdf)
 
 ## CV papers 
 1. [Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385.pdf)
