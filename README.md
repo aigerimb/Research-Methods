@@ -7,8 +7,8 @@ This repository contains papers and other resources for the Research Methods cla
 2. [Benchmarking Reinforcement Learning Algorithms on Real-World Robots](https://arxiv.org/pdf/1809.07731.pdf)
 3. [Dueling Network Architectures for Deep Reinforcement Learning](https://arxiv.org/pdf/1511.06581.pdf)
 4. [DeepMimic: Example-Guided Deep Reinforcement Learning of Physics-Based Character Skills](https://xbpeng.github.io/projects/DeepMimic/2018_TOG_DeepMimic.pdf)
-5. [Strategic Attentive Writer for Learning Macro-Actions](Strategic Attentive Writer for Learning Macro-Actions)
-6. [Deep reinforcement learning from human preferences](Deep reinforcement learning from human preferences)
+5. [Strategic Attentive Writer for Learning Macro-Actions](https://arxiv.org/pdf/1606.04695.pdf)
+6. [Deep reinforcement learning from human preferences](https://arxiv.org/pdf/1706.03741.pdf)
 
 ## NLP Papers 
 2. [Effective approaches to attention-based neural machine translation](https://arxiv.org/abs/1508.04025)
