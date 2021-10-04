@@ -3,12 +3,11 @@ This repository contains papers and other resources for the Research Methods cla
 
 ## New Papers
 ## Reinforcement Learning Papers 
-1. [Deep Reinforcement Learning that matters](https://arxiv.org/pdf/1709.06560.pdf)
-2. [Benchmarking Reinforcement Learning Algorithms on Real-World Robots](https://arxiv.org/pdf/1809.07731.pdf)
-3. [Dueling Network Architectures for Deep Reinforcement Learning](https://arxiv.org/pdf/1511.06581.pdf)
-4. [DeepMimic: Example-Guided Deep Reinforcement Learning of Physics-Based Character Skills](https://xbpeng.github.io/projects/DeepMimic/2018_TOG_DeepMimic.pdf)
-5. [Strategic Attentive Writer for Learning Macro-Actions](https://arxiv.org/pdf/1606.04695.pdf)
-6. [Deep reinforcement learning from human preferences](https://arxiv.org/pdf/1706.03741.pdf)
+1. [Strategic Attentive Writer for Learning Macro-Actions](https://arxiv.org/pdf/1606.04695.pdf)
+2. [Prioritized Experience Replay](https://arxiv.org/pdf/1511.05952.pdf)
+3. [Learning to Paint With Model-based Deep Reinforcement Learning](https://arxiv.org/pdf/1903.04411.pdf)
+4. [A Review of Cooperative Multi-Agent Deep Reinforcement Learning](https://arxiv.org/pdf/1908.03963.pdf)
+5. 
 
 ## NLP Papers 
 1. [WinoGrande: An Adversarial Winograd Schema Challenge at Scale](https://arxiv.org/pdf/1907.10641.pdf)
@@ -32,6 +31,11 @@ This repository contains papers and other resources for the Research Methods cla
 3. [Grandmaster level in StarCraft II using multi-agent reinforcement learning](https://www.nature.com/articles/s41586-019-1724-z.epdf?author_access_token=lZH3nqPYtWJXfDA10W0CNNRgN0jAjWel9jnR3ZoTv0PSZcPzJFGNAZhOlk4deBCKzKm70KfinloafEF1bCCXL6IIHHgKaDkaTkBcTEv7aT-wqDoG1VeO9-wO3GEoAMF9bAOt7mJ0RWQnRVMbyfgH9A%3D%3D)
 4. [The Ingredients of Real World Robotic Reinforcement Learning](https://openreview.net/pdf?id=rJe2syrtvS)
 5. [Concrete Problems in AI Safety](https://arxiv.org/abs/1606.06565)
+6. [Deep Reinforcement Learning that matters](https://arxiv.org/pdf/1709.06560.pdf)
+7. [Benchmarking Reinforcement Learning Algorithms on Real-World Robots](https://arxiv.org/pdf/1809.07731.pdf)
+8. [Dueling Network Architectures for Deep Reinforcement Learning](https://arxiv.org/pdf/1511.06581.pdf)
+9. [DeepMimic: Example-Guided Deep Reinforcement Learning of Physics-Based Character Skills](https://xbpeng.github.io/projects/DeepMimic/2018_TOG_DeepMimic.pdf)
+10. [Deep reinforcement learning from human preferences](https://arxiv.org/pdf/1706.03741.pdf)
 
 
 ## NLP Papers 
