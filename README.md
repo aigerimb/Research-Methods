@@ -12,12 +12,9 @@ This repository contains papers and other resources for the Research Methods cla
 7. [Resource Management with Deep Reinforcement Learning](https://people.csail.mit.edu/alizadeh/papers/deeprm-hotnets16.pdf)
 
 ## NLP Papers 
-1. [WinoGrande: An Adversarial Winograd Schema Challenge at Scale](https://arxiv.org/pdf/1907.10641.pdf)
-2. [Effective approaches to attention-based neural machine translation](https://arxiv.org/abs/1508.04025)
-3. [Convolutional sequence to sequence learning](http://proceedings.mlr.press/v70/gehring17a/gehring17a.pdf)
-4. [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)
-5. [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/pdf/1910.10683.pdf)
-6. [Reformer: The Efficient Transformer](https://arxiv.org/pdf/2001.04451.pdf)
+
+1. [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/pdf/1910.10683.pdf)
+
 
 ## CV papers 
 1. [Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385.pdf)
@@ -26,6 +23,8 @@ This repository contains papers and other resources for the Research Methods cla
 4. [Face Detection with a 3D Model](https://arxiv.org/pdf/1404.3596.pdf)
 5. [Animating Pictures with Eulerian Motion Fields](https://openaccess.thecvf.com/content/CVPR2021/papers/Holynski_Animating_Pictures_With_Eulerian_Motion_Fields_CVPR_2021_paper.pdf)
 6. [Taming Transformers for High-Resolution Image Synthesis](https://openaccess.thecvf.com/content/CVPR2021/papers/Esser_Taming_Transformers_for_High-Resolution_Image_Synthesis_CVPR_2021_paper.pdf)
+
+
 ## Past papers
 ## Reinforcement Learning Papers 
 1. [Playing Atari with Deep Reinforcement Learning, Algorithm: DQN.](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
@@ -44,6 +43,11 @@ This repository contains papers and other resources for the Research Methods cla
 1. [Attention is all you need](https://papers.nips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
 2. [Sequence to sequence model](https://papers.nips.cc/paper/2014/file/a14ac55a4f27472c5d894ec1c3c743d2-Paper.pdf)
 3. [Neural machine translation by jointly learning to align and translate](https://arxiv.org/abs/1409.0473)
+4. [WinoGrande: An Adversarial Winograd Schema Challenge at Scale](https://arxiv.org/pdf/1907.10641.pdf)
+5. [Effective approaches to attention-based neural machine translation](https://arxiv.org/abs/1508.04025)
+6. [Convolutional sequence to sequence learning](http://proceedings.mlr.press/v70/gehring17a/gehring17a.pdf)
+7. [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)
+8. [Reformer: The Efficient Transformer](https://arxiv.org/pdf/2001.04451.pdf)
 
 
 ## CV papers 
