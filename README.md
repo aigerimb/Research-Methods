@@ -21,12 +21,8 @@ This repository contains papers and other resources for the Research Methods cla
 
 
 ## CV papers 
-1. [Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385.pdf)
-2. [DeCAF: A Deep Convolutional Activation Feature for Generic Visual Recognition](http://proceedings.mlr.press/v32/donahue14.pdf)
-3. [Visualizing and Understanding Convolutional Networks](https://cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf)
-4. [Face Detection with a 3D Model](https://arxiv.org/pdf/1404.3596.pdf)
-5. [Animating Pictures with Eulerian Motion Fields](https://openaccess.thecvf.com/content/CVPR2021/papers/Holynski_Animating_Pictures_With_Eulerian_Motion_Fields_CVPR_2021_paper.pdf)
-6. [Taming Transformers for High-Resolution Image Synthesis](https://openaccess.thecvf.com/content/CVPR2021/papers/Esser_Taming_Transformers_for_High-Resolution_Image_Synthesis_CVPR_2021_paper.pdf)
+1. [Animating Pictures with Eulerian Motion Fields](https://openaccess.thecvf.com/content/CVPR2021/papers/Holynski_Animating_Pictures_With_Eulerian_Motion_Fields_CVPR_2021_paper.pdf)
+2. [Taming Transformers for High-Resolution Image Synthesis](https://openaccess.thecvf.com/content/CVPR2021/papers/Esser_Taming_Transformers_for_High-Resolution_Image_Synthesis_CVPR_2021_paper.pdf)
 
 
 ## Past papers
@@ -60,4 +56,8 @@ This repository contains papers and other resources for the Research Methods cla
 3. [Graph attention networks](https://arxiv.org/pdf/1710.10903.pdf)
 4. [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)
 5. [Pay attention to MLPs](https://arxiv.org/abs/2105.08050)
+6. [Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385.pdf)
+7. [DeCAF: A Deep Convolutional Activation Feature for Generic Visual Recognition](http://proceedings.mlr.press/v32/donahue14.pdf)
+8. [Visualizing and Understanding Convolutional Networks](https://cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf)
+9. [Face Detection with a 3D Model](https://arxiv.org/pdf/1404.3596.pdf)
 
