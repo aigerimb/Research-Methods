@@ -23,6 +23,10 @@ This repository contains papers and other resources for the Research Methods cla
 ## CV papers 
 1. [Animating Pictures with Eulerian Motion Fields](https://openaccess.thecvf.com/content/CVPR2021/papers/Holynski_Animating_Pictures_With_Eulerian_Motion_Fields_CVPR_2021_paper.pdf)
 2. [Taming Transformers for High-Resolution Image Synthesis](https://openaccess.thecvf.com/content/CVPR2021/papers/Esser_Taming_Transformers_for_High-Resolution_Image_Synthesis_CVPR_2021_paper.pdf)
+3. [Computer Vision for Autonomous Vehicles: Problems, Datasets and State of the Art](https://arxiv.org/abs/1704.05519)
+4. [Deep learning-enabled medical computer vision](https://www.nature.com/articles/s41746-020-00376-2.pdf)
+5. [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640.pdf)
+6. [Densely Connected Convolutional Networks](https://arxiv.org/pdf/1608.06993.pdf)
 
 
 ## Past papers
