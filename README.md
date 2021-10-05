@@ -8,7 +8,8 @@ This repository contains papers and other resources for the Research Methods cla
 3. [Learning to Paint With Model-based Deep Reinforcement Learning](https://arxiv.org/pdf/1903.04411.pdf)
 4. [A Review of Cooperative Multi-Agent Deep Reinforcement Learning](https://arxiv.org/pdf/1908.03963.pdf)
 5. [Machine Learning for Combinatorial Optimization: a Methodological Tour d’Horizon](https://arxiv.org/pdf/1811.06128.pdf)
-6. 
+6. [Deep Reinforcement Learning for Autonomous Driving: A Survey](https://arxiv.org/pdf/2002.00444.pdf)
+7. [Resource Management with Deep Reinforcement Learning](https://people.csail.mit.edu/alizadeh/papers/deeprm-hotnets16.pdf)
 
 ## NLP Papers 
 1. [WinoGrande: An Adversarial Winograd Schema Challenge at Scale](https://arxiv.org/pdf/1907.10641.pdf)
