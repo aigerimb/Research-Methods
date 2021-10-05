@@ -7,7 +7,8 @@ This repository contains papers and other resources for the Research Methods cla
 2. [Prioritized Experience Replay](https://arxiv.org/pdf/1511.05952.pdf)
 3. [Learning to Paint With Model-based Deep Reinforcement Learning](https://arxiv.org/pdf/1903.04411.pdf)
 4. [A Review of Cooperative Multi-Agent Deep Reinforcement Learning](https://arxiv.org/pdf/1908.03963.pdf)
-5. 
+5. [Machine Learning for Combinatorial Optimization: a Methodological Tour d’Horizon](https://arxiv.org/pdf/1811.06128.pdf)
+6. 
 
 ## NLP Papers 
 1. [WinoGrande: An Adversarial Winograd Schema Challenge at Scale](https://arxiv.org/pdf/1907.10641.pdf)
