@@ -7,7 +7,9 @@ This repository contains papers and other resources for the Research Methods cla
 2. [Deterministic Policy Gradient Algorithms](http://proceedings.mlr.press/v32/silver14.pdf)
 3. [Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm](https://arxiv.org/pdf/1712.01815.pdf)
 4. [QT-Opt: Scalable Deep Reinforcement Learning for Vision-Based Robotic Manipulation](https://arxiv.org/pdf/1806.10293.pdf)
-5. 
+5. [Neural Combinatorial Optimization with Reinforcement Learning](https://arxiv.org/pdf/1611.09940.pdf)
+6. [Multi-Agent Reinforcement Learning for Dynamic Routing Games: A Unified Paradigm](https://arxiv.org/pdf/2011.10915.pdf)
+7. [Deep Reinforcement Learning for Cyber Security](https://arxiv.org/pdf/1906.05799.pdf)
 
 ## NLP Papers 
 
