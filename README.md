@@ -13,9 +13,7 @@ This repository contains papers and other resources for the Research Methods cla
 
 ## NLP Papers 
 
-1. [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/pdf/1910.10683.pdf)
-2. [Neural Approaches to Conversational AI](https://arxiv.org/pdf/1809.08267.pdf)
-3. [A Neural Conversational Model](https://arxiv.org/pdf/1506.05869.pdf)
+
 4. [Emotion-Cause Pair Extraction: A New Task To Emotion Analysis In Texts](https://arxiv.org/pdf/1906.01267.pdf)
 5. [Analysis Methods in Neural Language Processing: A Survey](https://aclanthology.org/Q19-1004.pdf)
 
@@ -59,6 +57,9 @@ This repository contains papers and other resources for the Research Methods cla
 6. [Convolutional sequence to sequence learning](http://proceedings.mlr.press/v70/gehring17a/gehring17a.pdf)
 7. [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)
 8. [Reformer: The Efficient Transformer](https://arxiv.org/pdf/2001.04451.pdf)
+9. [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/pdf/1910.10683.pdf)
+10.[Neural Approaches to Conversational AI](https://arxiv.org/pdf/1809.08267.pdf)
+11.[A Neural Conversational Model](https://arxiv.org/pdf/1506.05869.pdf)
 
 
 ## CV papers 
