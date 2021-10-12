@@ -3,13 +3,11 @@ This repository contains papers and other resources for the Research Methods cla
 
 ## New Papers
 ## Reinforcement Learning Papers 
-1. [Strategic Attentive Writer for Learning Macro-Actions](https://arxiv.org/pdf/1606.04695.pdf)
-2. [Prioritized Experience Replay](https://arxiv.org/pdf/1511.05952.pdf)
-3. [Learning to Paint With Model-based Deep Reinforcement Learning](https://arxiv.org/pdf/1903.04411.pdf)
-4. [A Review of Cooperative Multi-Agent Deep Reinforcement Learning](https://arxiv.org/pdf/1908.03963.pdf)
-5. [Machine Learning for Combinatorial Optimization: a Methodological Tour d’Horizon](https://arxiv.org/pdf/1811.06128.pdf)
-6. [Deep Reinforcement Learning for Autonomous Driving: A Survey](https://arxiv.org/pdf/2002.00444.pdf)
-7. [Resource Management with Deep Reinforcement Learning](https://people.csail.mit.edu/alizadeh/papers/deeprm-hotnets16.pdf)
+1. [Deep Reinforcement Learning with Double Q-learning](https://arxiv.org/pdf/1509.06461.pdf)
+2. [Deterministic Policy Gradient Algorithms](http://proceedings.mlr.press/v32/silver14.pdf)
+3. [Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm](https://arxiv.org/pdf/1712.01815.pdf)
+4. [QT-Opt: Scalable Deep Reinforcement Learning for Vision-Based Robotic Manipulation](https://arxiv.org/pdf/1806.10293.pdf)
+5. 
 
 ## NLP Papers 
 
@@ -41,6 +39,13 @@ This repository contains papers and other resources for the Research Methods cla
 8. [Dueling Network Architectures for Deep Reinforcement Learning](https://arxiv.org/pdf/1511.06581.pdf)
 9. [DeepMimic: Example-Guided Deep Reinforcement Learning of Physics-Based Character Skills](https://xbpeng.github.io/projects/DeepMimic/2018_TOG_DeepMimic.pdf)
 10. [Deep reinforcement learning from human preferences](https://arxiv.org/pdf/1706.03741.pdf)
+11. [Strategic Attentive Writer for Learning Macro-Actions](https://arxiv.org/pdf/1606.04695.pdf)
+12. [Prioritized Experience Replay](https://arxiv.org/pdf/1511.05952.pdf)
+13. [Learning to Paint With Model-based Deep Reinforcement Learning](https://arxiv.org/pdf/1903.04411.pdf)
+14. [A Review of Cooperative Multi-Agent Deep Reinforcement Learning](https://arxiv.org/pdf/1908.03963.pdf)
+15. [Machine Learning for Combinatorial Optimization: a Methodological Tour d’Horizon](https://arxiv.org/pdf/1811.06128.pdf)
+16. [Deep Reinforcement Learning for Autonomous Driving: A Survey](https://arxiv.org/pdf/2002.00444.pdf)
+17. [Resource Management with Deep Reinforcement Learning](https://people.csail.mit.edu/alizadeh/papers/deeprm-hotnets16.pdf)
 
 
 ## NLP Papers 
