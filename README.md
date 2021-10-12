@@ -20,12 +20,13 @@ This repository contains papers and other resources for the Research Methods cla
 
 
 ## CV papers 
-1. [Animating Pictures with Eulerian Motion Fields](https://openaccess.thecvf.com/content/CVPR2021/papers/Holynski_Animating_Pictures_With_Eulerian_Motion_Fields_CVPR_2021_paper.pdf)
-2. [Taming Transformers for High-Resolution Image Synthesis](https://openaccess.thecvf.com/content/CVPR2021/papers/Esser_Taming_Transformers_for_High-Resolution_Image_Synthesis_CVPR_2021_paper.pdf)
-3. [Computer Vision for Autonomous Vehicles: Problems, Datasets and State of the Art](https://arxiv.org/abs/1704.05519)
-4. [Deep learning-enabled medical computer vision](https://www.nature.com/articles/s41746-020-00376-2.pdf)
-5. [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640.pdf)
-6. [Densely Connected Convolutional Networks](https://arxiv.org/pdf/1608.06993.pdf)
+1. [Computer Vision for Autonomous Vehicles: Problems, Datasets and State of the Art](https://arxiv.org/abs/1704.05519)
+2. [Deep Learning in Label-free Cell Classification](https://www.nature.com/articles/srep21471.pdf)
+3. [Automatically identifying, counting, and describing wild animals in camera-trap images with deep learning](https://www.pnas.org/content/115/25/E5716)
+4. [Spherical CNNs](https://arxiv.org/pdf/1801.10130.pdf)
+5. [Adversarial Examples that Fool both Computer Vision and Time-Limited Humans](https://arxiv.org/abs/1802.08195)
+6. [A Closed-form Solution to Photorealistic Image Stylization](https://arxiv.org/pdf/1802.06474.pdf)
+
 
 
 ## Past papers
@@ -73,4 +74,9 @@ This repository contains papers and other resources for the Research Methods cla
 7. [DeCAF: A Deep Convolutional Activation Feature for Generic Visual Recognition](http://proceedings.mlr.press/v32/donahue14.pdf)
 8. [Visualizing and Understanding Convolutional Networks](https://cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf)
 9. [Face Detection with a 3D Model](https://arxiv.org/pdf/1404.3596.pdf)
+10. [Animating Pictures with Eulerian Motion Fields](https://openaccess.thecvf.com/content/CVPR2021/papers/Holynski_Animating_Pictures_With_Eulerian_Motion_Fields_CVPR_2021_paper.pdf)
+11. [Taming Transformers for High-Resolution Image Synthesis](https://openaccess.thecvf.com/content/CVPR2021/papers/Esser_Taming_Transformers_for_High-Resolution_Image_Synthesis_CVPR_2021_paper.pdf)
+12. [Deep learning-enabled medical computer vision](https://www.nature.com/articles/s41746-020-00376-2.pdf)
+13. [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640.pdf)
+14. [Densely Connected Convolutional Networks](https://arxiv.org/pdf/1608.06993.pdf)
 
