@@ -12,10 +12,11 @@ This repository contains papers and other resources for the Research Methods cla
 7. [Deep Reinforcement Learning for Cyber Security](https://arxiv.org/pdf/1906.05799.pdf)
 
 ## NLP Papers 
-
-
-4. [Emotion-Cause Pair Extraction: A New Task To Emotion Analysis In Texts](https://arxiv.org/pdf/1906.01267.pdf)
-5. [Analysis Methods in Neural Language Processing: A Survey](https://aclanthology.org/Q19-1004.pdf)
+1. [Emotion-Cause Pair Extraction: A New Task To Emotion Analysis In Texts](https://arxiv.org/pdf/1906.01267.pdf)
+2. [Analysis Methods in Neural Language Processing: A Survey](https://aclanthology.org/Q19-1004.pdf)
+3. [ALBERT: A LITE BERT FOR SELF-SUPERVISED LEARNING OF LANGUAGE REPRESENTATIONS](https://arxiv.org/pdf/1909.11942.pdf)
+4. [Deep Learning for Hate Speech Detection in Tweets](https://arxiv.org/pdf/1706.00188.pdf)
+5. [Thumbs Up or Thumbs Down? Semantic Orientation Applied to Unsupervised Classification of Reviews](https://aclanthology.org/P02-1053.pdf)
 
 
 ## CV papers 
