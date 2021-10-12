@@ -17,6 +17,7 @@ This repository contains papers and other resources for the Research Methods cla
 3. [ALBERT: A LITE BERT FOR SELF-SUPERVISED LEARNING OF LANGUAGE REPRESENTATIONS](https://arxiv.org/pdf/1909.11942.pdf)
 4. [Deep Learning for Hate Speech Detection in Tweets](https://arxiv.org/pdf/1706.00188.pdf)
 5. [Thumbs Up or Thumbs Down? Semantic Orientation Applied to Unsupervised Classification of Reviews](https://aclanthology.org/P02-1053.pdf)
+6. [Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation](https://arxiv.org/abs/1609.08144)
 
 
 ## CV papers 
