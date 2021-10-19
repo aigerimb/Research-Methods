@@ -22,12 +22,12 @@ This repository contains papers and other resources for the Research Methods cla
 
 
 ## CV papers 
-1. [Computer Vision for Autonomous Vehicles: Problems, Datasets and State of the Art](https://arxiv.org/abs/1704.05519)
-2. [Deep Learning in Label-free Cell Classification](https://www.nature.com/articles/srep21471.pdf)
-3. [Automatically identifying, counting, and describing wild animals in camera-trap images with deep learning](https://www.pnas.org/content/115/25/E5716)
-4. [Spherical CNNs](https://arxiv.org/pdf/1801.10130.pdf)
-5. [Adversarial Examples that Fool both Computer Vision and Time-Limited Humans](https://arxiv.org/abs/1802.08195)
-6. [A Closed-form Solution to Photorealistic Image Stylization](https://arxiv.org/pdf/1802.06474.pdf)
+1. [Deep Learning in Label-free Cell Classification](https://www.nature.com/articles/srep21471.pdf)
+2. [A Closed-form Solution to Photorealistic Image Stylization](https://arxiv.org/pdf/1802.06474.pdf)
+3. [Adam: A Method for Stochastic Optimization](https://arxiv.org/pdf/1412.6980.pdf)
+4. [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167.pdf)
+5. [Deep Learning using Rectified Linear Units (ReLU)](https://arxiv.org/pdf/1803.08375.pdf)
+6. [Generative Adversarial Networks](https://arxiv.org/pdf/1406.2661.pdf)
 
 
 
@@ -90,4 +90,8 @@ This repository contains papers and other resources for the Research Methods cla
 12. [Deep learning-enabled medical computer vision](https://www.nature.com/articles/s41746-020-00376-2.pdf)
 13. [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640.pdf)
 14. [Densely Connected Convolutional Networks](https://arxiv.org/pdf/1608.06993.pdf)
+15. [Computer Vision for Autonomous Vehicles: Problems, Datasets and State of the Art](https://arxiv.org/abs/1704.05519)
+16. [Automatically identifying, counting, and describing wild animals in camera-trap images with deep learning](https://www.pnas.org/content/115/25/E5716)
+17. [Spherical CNNs](https://arxiv.org/pdf/1801.10130.pdf)
+18. [Adversarial Examples that Fool both Computer Vision and Time-Limited Humans](https://arxiv.org/abs/1802.08195)
 
