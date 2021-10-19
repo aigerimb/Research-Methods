@@ -13,12 +13,12 @@ This repository contains papers and other resources for the Research Methods cla
 
 
 ## NLP Papers 
-1. [Emotion-Cause Pair Extraction: A New Task To Emotion Analysis In Texts](https://arxiv.org/pdf/1906.01267.pdf)
-2. [Analysis Methods in Neural Language Processing: A Survey](https://aclanthology.org/Q19-1004.pdf)
-3. [ALBERT: A LITE BERT FOR SELF-SUPERVISED LEARNING OF LANGUAGE REPRESENTATIONS](https://arxiv.org/pdf/1909.11942.pdf)
-4. [Deep Learning for Hate Speech Detection in Tweets](https://arxiv.org/pdf/1706.00188.pdf)
-5. [Thumbs Up or Thumbs Down? Semantic Orientation Applied to Unsupervised Classification of Reviews](https://aclanthology.org/P02-1053.pdf)
-6. [Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation](https://arxiv.org/abs/1609.08144)
+1. [Analysis Methods in Neural Language Processing: A Survey](https://aclanthology.org/Q19-1004.pdf)
+2. [Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation](https://arxiv.org/abs/1609.08144)
+3. [Deep Speech 2: End-to-End Speech Recognition in English and Mandarin](https://arxiv.org/pdf/1512.02595.pdf)
+4. [Listen, attend and spell: A neural network for large vocabulary conversational speech recognition](https://arxiv.org/pdf/1508.01211.pdf)
+5. [Onsets and Frames: Dual-Objective Piano Transcription](https://arxiv.org/abs/1710.11153)
+6. [Jukebox: A Generative Model for Music](https://arxiv.org/pdf/2005.00341.pdf)
 
 
 ## CV papers 
@@ -69,6 +69,10 @@ This repository contains papers and other resources for the Research Methods cla
 9. [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/pdf/1910.10683.pdf)
 10.[Neural Approaches to Conversational AI](https://arxiv.org/pdf/1809.08267.pdf)
 11.[A Neural Conversational Model](https://arxiv.org/pdf/1506.05869.pdf)
+12.[Emotion-Cause Pair Extraction: A New Task To Emotion Analysis In Texts](https://arxiv.org/pdf/1906.01267.pdf)
+13. [ALBERT: A LITE BERT FOR SELF-SUPERVISED LEARNING OF LANGUAGE REPRESENTATIONS](https://arxiv.org/pdf/1909.11942.pdf)
+14. [Deep Learning for Hate Speech Detection in Tweets](https://arxiv.org/pdf/1706.00188.pdf)
+15. [Thumbs Up or Thumbs Down? Semantic Orientation Applied to Unsupervised Classification of Reviews](https://aclanthology.org/P02-1053.pdf)
 
 
 ## CV papers 
