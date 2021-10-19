@@ -5,6 +5,11 @@ This repository contains papers and other resources for the Research Methods cla
 ## Reinforcement Learning Papers 
 1. [Deterministic Policy Gradient Algorithms](http://proceedings.mlr.press/v32/silver14.pdf)
 2. [QT-Opt: Scalable Deep Reinforcement Learning for Vision-Based Robotic Manipulation](https://arxiv.org/pdf/1806.10293.pdf)
+3. [Learning Combinatorial Optimization Algorithms over Graphs](https://proceedings.neurips.cc/paper/2017/file/d9896106ca98d3d05b8cbdf4fd8b13a1-Paper.pdf)
+4. [Challenges of Real-World Reinforcement Learning](https://arxiv.org/pdf/1904.12901.pdf)
+5. [Deep reinforcement learning for time series: playing idealized trading games*](https://arxiv.org/ftp/arxiv/papers/1803/1803.03916.pdf)
+6. [Safe, Multi-Agent, Reinforcement Learning for Autonomous Driving](https://arxiv.org/pdf/1610.03295.pdf)
+7. [Unsupervised Doodling and Painting with Improved SPIRAL](https://arxiv.org/pdf/1910.01007.pdf)
 
 
 ## NLP Papers 
