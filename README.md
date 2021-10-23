@@ -15,11 +15,10 @@ This repository contains papers and other resources for the Research Methods cla
 
 ## NLP Papers 
 1. [Analysis Methods in Neural Language Processing: A Survey](https://aclanthology.org/Q19-1004.pdf)
-2. [Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation](https://arxiv.org/abs/1609.08144)
-3. [Deep Speech 2: End-to-End Speech Recognition in English and Mandarin](https://arxiv.org/pdf/1512.02595.pdf)
-4. [Listen, attend and spell: A neural network for large vocabulary conversational speech recognition](https://arxiv.org/pdf/1508.01211.pdf)
-5. [Onsets and Frames: Dual-Objective Piano Transcription](https://arxiv.org/abs/1710.11153)
-6. [Jukebox: A Generative Model for Music](https://arxiv.org/pdf/2005.00341.pdf)
+2. [Jukebox: A Generative Model for Music](https://arxiv.org/pdf/2005.00341.pdf)
+3. [Restricted Boltzmann Machines for Collaborative Filtering](https://www.cs.toronto.edu/~rsalakhu/papers/rbmcf.pdf)
+4. [Deep content-based music recommendation](https://proceedings.neurips.cc/paper/2013/file/b3ba8f1bee1238a2f37603d90b58898d-Paper.pdf)
+5. 
 
 
 ## CV papers 
@@ -79,6 +78,10 @@ This repository contains papers and other resources for the Research Methods cla
 13. [ALBERT: A LITE BERT FOR SELF-SUPERVISED LEARNING OF LANGUAGE REPRESENTATIONS](https://arxiv.org/pdf/1909.11942.pdf)
 14. [Deep Learning for Hate Speech Detection in Tweets](https://arxiv.org/pdf/1706.00188.pdf)
 15. [Thumbs Up or Thumbs Down? Semantic Orientation Applied to Unsupervised Classification of Reviews](https://aclanthology.org/P02-1053.pdf)
+16. [Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation](https://arxiv.org/abs/1609.08144)
+17. [Deep Speech 2: End-to-End Speech Recognition in English and Mandarin](https://arxiv.org/pdf/1512.02595.pdf)
+18. [Listen, attend and spell: A neural network for large vocabulary conversational speech recognition](https://arxiv.org/pdf/1508.01211.pdf)
+19. [Onsets and Frames: Dual-Objective Piano Transcription](https://arxiv.org/abs/1710.11153)
 
 
 ## CV papers 
