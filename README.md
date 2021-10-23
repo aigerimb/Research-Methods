@@ -5,7 +5,7 @@ This repository contains papers and other resources for the Research Methods cla
 ## Reinforcement Learning Papers 
 1. [Deterministic Policy Gradient Algorithms](http://proceedings.mlr.press/v32/silver14.pdf)
 2. [QT-Opt: Scalable Deep Reinforcement Learning for Vision-Based Robotic Manipulation](https://arxiv.org/pdf/1806.10293.pdf)
-3 .[Solving Rubik's Cube with a Robot Hand](https://arxiv.org/pdf/1910.07113.pdf)
+3. [Solving Rubik's Cube with a Robot Hand](https://arxiv.org/pdf/1910.07113.pdf)
 4. [Dream to Control: Learning Behaviors by Latent Imagination](https://arxiv.org/pdf/1912.01603.pdf)
 5. [Social Influence as Intrinsic Motivation for Multi-Agent Deep Reinforcement Learning](https://arxiv.org/pdf/1810.08647.pdf)
 6. [Proximal Policy Optimization Algorithms](https://arxiv.org/pdf/1707.06347.pdf)
