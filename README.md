@@ -24,6 +24,11 @@ This repository contains papers and other resources for the Research Methods cla
 
 ## CV papers 
 1. [Deep Learning in Label-free Cell Classification](https://www.nature.com/articles/srep21471.pdf)
+2. [Generative Pretraining from Pixels](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf)
+3. [Old Photo Restoration via Deep Latent Space Translation](https://arxiv.org/pdf/2009.07047.pdf)
+4. [Deep Learning for Deepfakes Creation and Detection: A Survey](https://arxiv.org/pdf/1909.11573.pdf)
+5. [Deep-Anomaly: Fully Convolutional Neural Network for Fast Anomaly Detection in Crowded Scenes](https://arxiv.org/pdf/1609.00866.pdf)
+6. [Very deep convolutional networks for large-scale image recognition](https://arxiv.org/pdf/1409.1556.pdf(2014.pdf)
 
 
 
