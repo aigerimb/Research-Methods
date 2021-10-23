@@ -5,11 +5,12 @@ This repository contains papers and other resources for the Research Methods cla
 ## Reinforcement Learning Papers 
 1. [Deterministic Policy Gradient Algorithms](http://proceedings.mlr.press/v32/silver14.pdf)
 2. [QT-Opt: Scalable Deep Reinforcement Learning for Vision-Based Robotic Manipulation](https://arxiv.org/pdf/1806.10293.pdf)
-3. [Learning Combinatorial Optimization Algorithms over Graphs](https://proceedings.neurips.cc/paper/2017/file/d9896106ca98d3d05b8cbdf4fd8b13a1-Paper.pdf)
-4. [Challenges of Real-World Reinforcement Learning](https://arxiv.org/pdf/1904.12901.pdf)
-5. [Deep reinforcement learning for time series: playing idealized trading games*](https://arxiv.org/ftp/arxiv/papers/1803/1803.03916.pdf)
-6. [Safe, Multi-Agent, Reinforcement Learning for Autonomous Driving](https://arxiv.org/pdf/1610.03295.pdf)
-7. [Unsupervised Doodling and Painting with Improved SPIRAL](https://arxiv.org/pdf/1910.01007.pdf)
+3 .[Solving Rubik's Cube with a Robot Hand](https://arxiv.org/pdf/1910.07113.pdf)
+4. [Dream to Control: Learning Behaviors by Latent Imagination](https://arxiv.org/pdf/1912.01603.pdf)
+5. [Social Influence as Intrinsic Motivation for Multi-Agent Deep Reinforcement Learning](https://arxiv.org/pdf/1810.08647.pdf)
+6. [Proximal Policy Optimization Algorithms](https://arxiv.org/pdf/1707.06347.pdf)
+7. [A Hybrid of Deep Reinforcement Learning and Local Search for the Vehicle Routing Problems](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9141401)
+
 
 
 ## NLP Papers 
@@ -55,6 +56,11 @@ This repository contains papers and other resources for the Research Methods cla
 20. [Neural Combinatorial Optimization with Reinforcement Learning](https://arxiv.org/pdf/1611.09940.pdf)
 21. [Multi-Agent Reinforcement Learning for Dynamic Routing Games: A Unified Paradigm](https://arxiv.org/pdf/2011.10915.pdf)
 22. [Deep Reinforcement Learning for Cyber Security](https://arxiv.org/pdf/1906.05799.pdf)
+23. [Learning Combinatorial Optimization Algorithms over Graphs](https://proceedings.neurips.cc/paper/2017/file/d9896106ca98d3d05b8cbdf4fd8b13a1-Paper.pdf)
+24. [Challenges of Real-World Reinforcement Learning](https://arxiv.org/pdf/1904.12901.pdf)
+25. [Deep reinforcement learning for time series: playing idealized trading games*](https://arxiv.org/ftp/arxiv/papers/1803/1803.03916.pdf)
+26. [Safe, Multi-Agent, Reinforcement Learning for Autonomous Driving](https://arxiv.org/pdf/1610.03295.pdf)
+27. [Unsupervised Doodling and Painting with Improved SPIRAL](https://arxiv.org/pdf/1910.01007.pdf)
 
 
 ## NLP Papers 
