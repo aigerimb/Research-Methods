@@ -18,16 +18,13 @@ This repository contains papers and other resources for the Research Methods cla
 2. [Jukebox: A Generative Model for Music](https://arxiv.org/pdf/2005.00341.pdf)
 3. [Restricted Boltzmann Machines for Collaborative Filtering](https://www.cs.toronto.edu/~rsalakhu/papers/rbmcf.pdf)
 4. [Deep content-based music recommendation](https://proceedings.neurips.cc/paper/2013/file/b3ba8f1bee1238a2f37603d90b58898d-Paper.pdf)
-5. 
+5. [Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165v2.pdf)
+6. [Towards a Human-like Open-Domain Chatbot](https://arxiv.org/pdf/2001.09977.pdf)
 
 
 ## CV papers 
 1. [Deep Learning in Label-free Cell Classification](https://www.nature.com/articles/srep21471.pdf)
-2. [A Closed-form Solution to Photorealistic Image Stylization](https://arxiv.org/pdf/1802.06474.pdf)
-3. [Adam: A Method for Stochastic Optimization](https://arxiv.org/pdf/1412.6980.pdf)
-4. [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167.pdf)
-5. [Deep Learning using Rectified Linear Units (ReLU)](https://arxiv.org/pdf/1803.08375.pdf)
-6. [Generative Adversarial Networks](https://arxiv.org/pdf/1406.2661.pdf)
+
 
 
 
@@ -52,14 +49,15 @@ This repository contains papers and other resources for the Research Methods cla
 17. [Resource Management with Deep Reinforcement Learning](https://people.csail.mit.edu/alizadeh/papers/deeprm-hotnets16.pdf)
 18. [Deep Reinforcement Learning with Double Q-learning](https://arxiv.org/pdf/1509.06461.pdf)
 19. [Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm](https://arxiv.org/pdf/1712.01815.pdf)
-20. [Neural Combinatorial Optimization with Reinforcement Learning](https://arxiv.org/pdf/1611.09940.pdf)
-21. [Multi-Agent Reinforcement Learning for Dynamic Routing Games: A Unified Paradigm](https://arxiv.org/pdf/2011.10915.pdf)
-22. [Deep Reinforcement Learning for Cyber Security](https://arxiv.org/pdf/1906.05799.pdf)
-23. [Learning Combinatorial Optimization Algorithms over Graphs](https://proceedings.neurips.cc/paper/2017/file/d9896106ca98d3d05b8cbdf4fd8b13a1-Paper.pdf)
-24. [Challenges of Real-World Reinforcement Learning](https://arxiv.org/pdf/1904.12901.pdf)
-25. [Deep reinforcement learning for time series: playing idealized trading games*](https://arxiv.org/ftp/arxiv/papers/1803/1803.03916.pdf)
-26. [Safe, Multi-Agent, Reinforcement Learning for Autonomous Driving](https://arxiv.org/pdf/1610.03295.pdf)
-27. [Unsupervised Doodling and Painting with Improved SPIRAL](https://arxiv.org/pdf/1910.01007.pdf)
+20. Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165v2.pdf)
+21. [Towards a Human-like Open-Domain Chatbot](https://arxiv.org/pdf/2001.09977.pdf)[Neural Combinatorial Optimization with Reinforcement Learning](https://arxiv.org/pdf/1611.09940.pdf)
+22. [Multi-Agent Reinforcement Learning for Dynamic Routing Games: A Unified Paradigm](https://arxiv.org/pdf/2011.10915.pdf)
+23. [Deep Reinforcement Learning for Cyber Security](https://arxiv.org/pdf/1906.05799.pdf)
+24. [Learning Combinatorial Optimization Algorithms over Graphs](https://proceedings.neurips.cc/paper/2017/file/d9896106ca98d3d05b8cbdf4fd8b13a1-Paper.pdf)
+25. [Challenges of Real-World Reinforcement Learning](https://arxiv.org/pdf/1904.12901.pdf)
+26. [Deep reinforcement learning for time series: playing idealized trading games*](https://arxiv.org/ftp/arxiv/papers/1803/1803.03916.pdf)
+27. [Safe, Multi-Agent, Reinforcement Learning for Autonomous Driving](https://arxiv.org/pdf/1610.03295.pdf)
+28. [Unsupervised Doodling and Painting with Improved SPIRAL](https://arxiv.org/pdf/1910.01007.pdf)
 
 
 ## NLP Papers 
@@ -103,4 +101,9 @@ This repository contains papers and other resources for the Research Methods cla
 16. [Automatically identifying, counting, and describing wild animals in camera-trap images with deep learning](https://www.pnas.org/content/115/25/E5716)
 17. [Spherical CNNs](https://arxiv.org/pdf/1801.10130.pdf)
 18. [Adversarial Examples that Fool both Computer Vision and Time-Limited Humans](https://arxiv.org/abs/1802.08195)
+19. [A Closed-form Solution to Photorealistic Image Stylization](https://arxiv.org/pdf/1802.06474.pdf)
+20. [Adam: A Method for Stochastic Optimization](https://arxiv.org/pdf/1412.6980.pdf)
+21. [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167.pdf)
+22. [Deep Learning using Rectified Linear Units (ReLU)](https://arxiv.org/pdf/1803.08375.pdf)
+23. [Generative Adversarial Networks](https://arxiv.org/pdf/1406.2661.pdf)
 
