@@ -24,12 +24,13 @@ This repository contains papers and other resources for the Research Methods cla
 
 
 ## CV papers 
-1. [Deep Learning in Label-free Cell Classification](https://www.nature.com/articles/srep21471.pdf)
-2. [Generative Pretraining from Pixels](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf)
-3. [Old Photo Restoration via Deep Latent Space Translation](https://arxiv.org/pdf/2009.07047.pdf)
-4. [Deep Learning for Deepfakes Creation and Detection: A Survey](https://arxiv.org/pdf/1909.11573.pdf)
-5. [Deep-Anomaly: Fully Convolutional Neural Network for Fast Anomaly Detection in Crowded Scenes](https://arxiv.org/pdf/1609.00866.pdf)
-6. [Very deep convolutional networks for large-scale image recognition](https://arxiv.org/pdf/1409.1556.pdf)
+1. [Anycost GANs for Interactive Image Synthesis and Editing](https://arxiv.org/pdf/2103.03243.pdf)
+2. [Deep-Anomaly: Fully Convolutional Neural Network for Fast Anomaly Detection in Crowded Scenes](https://arxiv.org/pdf/1609.00866.pdf)
+3. [Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation](https://arxiv.org/pdf/2104.11116.pdf)
+4. [Zero-Shot Text-to-Image Generation](https://arxiv.org/pdf/2102.12092)
+5. [Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering](https://arxiv.org/pdf/1707.07998.pdf)
+6. [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020)
+7. [Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks](https://arxiv.org/pdf/2004.06165.pdf)
 
 
 
@@ -122,5 +123,9 @@ This repository contains papers and other resources for the Research Methods cla
 21. [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167.pdf)
 22. [Deep Learning using Rectified Linear Units (ReLU)](https://arxiv.org/pdf/1803.08375.pdf)
 23. [Generative Adversarial Networks](https://arxiv.org/pdf/1406.2661.pdf)
-24. 
+24. [Deep Learning in Label-free Cell Classification](https://www.nature.com/articles/srep21471.pdf)
+25. [Generative Pretraining from Pixels](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf)
+26. [Old Photo Restoration via Deep Latent Space Translation](https://arxiv.org/pdf/2009.07047.pdf)
+27. [Deep Learning for Deepfakes Creation and Detection: A Survey](https://arxiv.org/pdf/1909.11573.pdf)
+28. [Very deep convolutional networks for large-scale image recognition](https://arxiv.org/pdf/1409.1556.pdf)
 
