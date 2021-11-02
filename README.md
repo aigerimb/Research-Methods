@@ -16,10 +16,11 @@ This repository contains papers and other resources for the Research Methods cla
 ## NLP Papers 
 1. [Analysis Methods in Neural Language Processing: A Survey](https://aclanthology.org/Q19-1004.pdf)
 2. [Jukebox: A Generative Model for Music](https://arxiv.org/pdf/2005.00341.pdf)
-3. [Restricted Boltzmann Machines for Collaborative Filtering](https://www.cs.toronto.edu/~rsalakhu/papers/rbmcf.pdf)
-4. [Deep content-based music recommendation](https://proceedings.neurips.cc/paper/2013/file/b3ba8f1bee1238a2f37603d90b58898d-Paper.pdf)
-5. [Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165v2.pdf)
-6. [Towards a Human-like Open-Domain Chatbot](https://arxiv.org/pdf/2001.09977.pdf)
+3. [RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/abs/1907.11692)
+4. [High Fidelity Speech Synthesis with Adversarial Networks](https://arxiv.org/pdf/1909.11646.pdf)
+5. [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf)
+6. [StructBERT: Incorporating Language Structures into Pre-training for Deep Language Understanding](https://arxiv.org/pdf/1908.04577.pdf)
+
 
 
 ## CV papers 
@@ -90,6 +91,10 @@ This repository contains papers and other resources for the Research Methods cla
 17. [Deep Speech 2: End-to-End Speech Recognition in English and Mandarin](https://arxiv.org/pdf/1512.02595.pdf)
 18. [Listen, attend and spell: A neural network for large vocabulary conversational speech recognition](https://arxiv.org/pdf/1508.01211.pdf)
 19. [Onsets and Frames: Dual-Objective Piano Transcription](https://arxiv.org/abs/1710.11153)
+20. [Restricted Boltzmann Machines for Collaborative Filtering](https://www.cs.toronto.edu/~rsalakhu/papers/rbmcf.pdf)
+21. [Deep content-based music recommendation](https://proceedings.neurips.cc/paper/2013/file/b3ba8f1bee1238a2f37603d90b58898d-Paper.pdf)
+22. [Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165v2.pdf)
+23. [Towards a Human-like Open-Domain Chatbot](https://arxiv.org/pdf/2001.09977.pdf)
 
 
 
