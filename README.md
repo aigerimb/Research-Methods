@@ -3,13 +3,13 @@ This repository contains papers and other resources for the Research Methods cla
 
 ## New Papers
 ## Reinforcement Learning Papers 
-1. [Deterministic Policy Gradient Algorithms](http://proceedings.mlr.press/v32/silver14.pdf)
-2. [QT-Opt: Scalable Deep Reinforcement Learning for Vision-Based Robotic Manipulation](https://arxiv.org/pdf/1806.10293.pdf)
-3. [Solving Rubik's Cube with a Robot Hand](https://arxiv.org/pdf/1910.07113.pdf)
-4. [Dream to Control: Learning Behaviors by Latent Imagination](https://arxiv.org/pdf/1912.01603.pdf)
-5. [Social Influence as Intrinsic Motivation for Multi-Agent Deep Reinforcement Learning](https://arxiv.org/pdf/1810.08647.pdf)
-6. [Proximal Policy Optimization Algorithms](https://arxiv.org/pdf/1707.06347.pdf)
-7. [A Hybrid of Deep Reinforcement Learning and Local Search for the Vehicle Routing Problems](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9141401)
+1. [Solving Rubik's Cube with a Robot Hand](https://arxiv.org/pdf/1910.07113.pdf)
+2. [A Hybrid of Deep Reinforcement Learning and Local Search for the Vehicle Routing Problems](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9141401)
+3. [Continuous control with deep reinforcement learning](https://arxiv.org/pdf/1509.02971.pdf)
+4. [Variational Intrinsic Control](https://arxiv.org/pdf/1611.07507.pdf)
+5. [FeUdal Networks for Hierarchical Reinforcement Learning](https://arxiv.org/pdf/1703.01161.pdf)
+6. [Learning Dexterous In-Hand Manipulation](https://arxiv.org/pdf/1808.00177.pdf)
+7. [The Reactor: A fast and sample-efficient Actor-Critic agent for Reinforcement Learning](https://arxiv.org/pdf/1704.04651.pdf)
 
 
 
@@ -63,6 +63,11 @@ This repository contains papers and other resources for the Research Methods cla
 26. [Deep reinforcement learning for time series: playing idealized trading games*](https://arxiv.org/ftp/arxiv/papers/1803/1803.03916.pdf)
 27. [Safe, Multi-Agent, Reinforcement Learning for Autonomous Driving](https://arxiv.org/pdf/1610.03295.pdf)
 28. [Unsupervised Doodling and Painting with Improved SPIRAL](https://arxiv.org/pdf/1910.01007.pdf)
+29. [Dream to Control: Learning Behaviors by Latent Imagination](https://arxiv.org/pdf/1912.01603.pdf)
+30. [Social Influence as Intrinsic Motivation for Multi-Agent Deep Reinforcement Learning](https://arxiv.org/pdf/1810.08647.pdf)
+31. [Proximal Policy Optimization Algorithms](https://arxiv.org/pdf/1707.06347.pdf)
+32. [Deterministic Policy Gradient Algorithms](http://proceedings.mlr.press/v32/silver14.pdf)
+33. [QT-Opt: Scalable Deep Reinforcement Learning for Vision-Based Robotic Manipulation](https://arxiv.org/pdf/1806.10293.pdf)
 
 
 ## NLP Papers 
@@ -85,6 +90,7 @@ This repository contains papers and other resources for the Research Methods cla
 17. [Deep Speech 2: End-to-End Speech Recognition in English and Mandarin](https://arxiv.org/pdf/1512.02595.pdf)
 18. [Listen, attend and spell: A neural network for large vocabulary conversational speech recognition](https://arxiv.org/pdf/1508.01211.pdf)
 19. [Onsets and Frames: Dual-Objective Piano Transcription](https://arxiv.org/abs/1710.11153)
+
 
 
 ## CV papers 
@@ -111,4 +117,5 @@ This repository contains papers and other resources for the Research Methods cla
 21. [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167.pdf)
 22. [Deep Learning using Rectified Linear Units (ReLU)](https://arxiv.org/pdf/1803.08375.pdf)
 23. [Generative Adversarial Networks](https://arxiv.org/pdf/1406.2661.pdf)
+24. 
 
