@@ -1,98 +1,228 @@
-\documentclass{article}
+\documentclass[letterpaper, 10 pt, conference, table]{ieeeconf}  % Comment this line out
+                                                          % if you need a4paper
+%\documentclass[a4paper, 10pt, conference]{ieeeconf}      % Use this line for a4
+                                                          % paper
 
-% Language setting
-% Replace `english' with e.g. `spanish' to change the document language
-\usepackage[english]{babel}
+\IEEEoverridecommandlockouts                              % This command is only
+                                                          % needed if you want to
+                                                          % use the \thanks command
+\overrideIEEEmargins
+% See the \addtolength command later in the file to balance the column lengths
+% on the last page of the document
 
-% Set page size and margins
-% Replace `letterpaper' with`a4paper' for UK/EU standard size
-\usepackage[letterpaper,top=2cm,bottom=2cm,left=3cm,right=3cm,marginparwidth=1.75cm]{geometry}
+% This is needed to prevent the style file preventing citations from linking to
+% the bibliography
+\makeatletter
+\let\NAT@parse\undefined
+\makeatother
 
-% Useful packages
-\usepackage{amsmath}
+%\usepackage[dvipsnames]{xcolor}
+\PassOptionsToPackage{usenames, dvipsnames}{xcolor}
+\usepackage[usenames,dvipsnames,rgb]{xcolor}
+
+\newcommand*\linkcolours{ForestGreen}
+\usepackage{subcaption}
+\usepackage{times}
 \usepackage{graphicx}
-\usepackage[colorlinks=true, allcolors=blue]{hyperref}
+\usepackage{amssymb}
+\usepackage{gensymb}
+\usepackage{amsmath}
+\usepackage{breakurl}
+\def\UrlBreaks{\do\/\do-}
+\usepackage{url,hyperref}
+\usepackage{booktabs}
+\hypersetup{
+colorlinks,
+linkcolor=\linkcolours,
+citecolor=\linkcolours,
+filecolor=\linkcolours,
+urlcolor=\linkcolours}
 
-\title{Your Paper}
-\author{You}
+\usepackage{algpseudocode}
+\usepackage{algorithm}
+
+\algnewcommand\algorithmicforeach{\textbf{for each}}
+\algdef{S}[FOR]{ForEach}[1]{\algorithmicforeach\ #1\ \algorithmicdo}
+
+\usepackage[labelfont={bf},font=small]{caption}
+\usepackage[none]{hyphenat}
+
+\usepackage{mathtools, cuted}
+
+\usepackage[noadjust, nobreak]{cite}
+\def\citepunct{,\,} % Style file defaults to listing references separately
+
+\usepackage{tabularx}
+\usepackage{amsmath}
+
+\usepackage{float}
+
+\usepackage{pifont}% http://ctan.org/pkg/pifont
+\newcommand{\cmark}{\ding{51}}%
+\newcommand{\xmark}{\ding{55}}%
+
+\newcommand*\diff{\mathop{}\!\mathrm{d}}
+\newcommand*\Diff[1]{\mathop{}\!\mathrm{d^#1}}
+\newcommand*\imgres{600}
+
+\newcolumntype{Y}{>{\centering\arraybackslash}X}
+
+%\usepackage{parskip}
+
+\usepackage[]{placeins}
+
+% \usepackage{epstopdf}
+% \epstopdfDeclareGraphicsRule{.tif}{png}{.png}{convert #1 \OutputFile}
+% \AppendGraphicsExtensions{.tif}
+
+\newcommand\extraspace{3pt}
+
+\usepackage{placeins}
+
+\usepackage{tikz}
+\newcommand*\circled[1]{\tikz[baseline=(char.base)]{
+            \node[shape=circle,draw,inner sep=0.8pt] (char) {#1};}}
+
+\usepackage[framemethod=tikz]{mdframed}
+
+\usepackage{afterpage}
+
+\usepackage{stfloats}
+
+
+\usepackage{atbegshi}
+\newcommand{\handlethispage}{}
+\newcommand{\discardpagesfromhere}{\let\handlethispage\AtBeginShipoutDiscard}
+\newcommand{\keeppagesfromhere}{\let\handlethispage\relax}
+\AtBeginShipout{\handlethispage}
+
+\usepackage{comment}
+\usepackage{bm}
+\renewcommand{\vec}[1]{\boldsymbol{\mathbf{#1}}}
+\newcommand{\mat}[1]{\vec{#1}}
+\newcommand{\set}[1]{\boldsymbol{\mathbf{#1}}}
+\newcommand{\optset}[1]{\mathbb{#1}}
+\def\Nc{\mathcal{N}}
+\def\Ic{\mathcal{I}}
+\def\Ac{\mathcal{A}}
+\def\Sc{\mathcal{S}}
+\def\Kc{\mathcal{K}}
+\def\Dc{\mathcal{D}}
+\def\Ec{\mathcal{E}}
+\def\Mc{\mathcal{M}}
+\def\Xc{\mathcal{X}}
+
+\newcommand{\rednote}[1]{{\color{red}#1}}
+\newcommand{\bluenote}[1]{{\color{blue}#1}}
+\newcommand{\greennote}[1]{{\color{green}#1}}
+%\usepackage[1,2,3,5,6,7]{pagesel} %Discard page 4 as it is blank
+
+% The following packages can be found on http:\\www.ctan.org
+%\usepackage{graphics} % for pdf, bitmapped graphics files
+%\usepackage{epsfig} % for postscript graphics files
+%\usepackage{mathptmx} % assumes new font selection scheme installed
+%\usepackage{times} % assumes new font selection scheme installed
+%\usepackage{amsmath} % assumes amsmath package installed
+%\usepackage{amssymb}  % assumes amsmath package installed
+
+\newcommand{\TODO}[1]{\color{red}{\textbf{TODO: #1}}\color{black}}
+
+\usepackage[T1]{fontenc}
+\usepackage[latin9]{inputenc}
+\usepackage{babel}
+%\usepackage[table]{xcolor}
+\usepackage{collcell}
+\usepackage{hhline}
+\usepackage{pgf}
+\usepackage{multirow}
+
+
+\def\colorModel{hsb} %You can use rgb or hsb
+\newcommand\ColCell[1]{
+	\pgfmathparse{#1<50?1:0}  %Threshold for changing the font color into the cells
+	\ifnum\pgfmathresult=0\relax\color{white}\fi
+	\pgfmathsetmacro\compA{0}      %Component R or H
+	\pgfmathsetmacro\compB{#1/100} %Component G or S
+	\pgfmathsetmacro\compC{1}      %Component B or B
+	\edef\x{\noexpand\centering\noexpand\cellcolor[\colorModel]{\compA,\compB,\compC}}\x #1
+}
+\newcolumntype{E}{>{\collectcell\ColCell}m{0.4cm}<{\endcollectcell}}  %Cell width
+\newcommand*\rot{\rotatebox{90}}
+
+\DeclareMathOperator*{\argmax}{argmax}
+
+\title{\LARGE \bf
+Reinforcement Learning for a single and multi-vehicle Routing Problems: A Survey
+% Neural Combinatorial Optimization for Rebalancing Electric Vehicle Sharing Systems
+}
+
+%\author{ \parbox{3 in}{\centering Huibert Kwakernaak*
+%         \thanks{*Use the $\backslash$thanks command to put information here}\\
+%         Faculty of Electrical Engineering, Mathematics and Computer Science\\
+%         University of Twente\\
+%         7500 AE Enschede, The Netherlands\\
+%         {\tt\small h.kwakernaak@autsubmit.com}}
+%         \hspace*{ 0.5 in}
+%         \parbox{3 in}{ \centering Pradeep Misra**
+%         \thanks{**The footnote marks may be inserted manually}\\
+%        Department of Electrical Engineering \\
+%         Wright State University\\
+%         Dayton, OH 45435, USA\\
+%         {\tt\small pmisra@cs.wright.edu}}
+%}
+
+\author{
+Taukekhan Mustakhov$^\dag$, Meraryslan Meraliyev $^\dag$, Aigerim Bogyrbayeva$^\dag$
+\thanks{$^\dag$Department of Computer Science, Suleyman Demirel University, Qaskelen, Kazakhstan Email: {\tt\footnotesize\{taukekhan.mustakhov, meraryslan.meraliyev, aigerim.bogyrbayeva\}@sdu.edu.kz}}%
+%\thanks{$^\flat$Department of Industrial and Systems Engineering, KAIST, Daejeon, South Korea, Email: {\tt\footnotesize\{jedi829, yjang\}@kaist.ac.kr}}%
+}
+
+% \author{Jeffrey M. Ede$^{1}$ and Richard Beanland$^{2}$% <-this % stops a space
+% \thanks{*This work was not supported by any organization}% <-this % stops a space
+% \thanks{$^{1}$H. Kwakernaak is with Faculty of Electrical Engineering, Mathematics and Computer Science,
+%         University of Twente, 7500 AE Enschede, The Netherlands
+%         {\tt\small h.kwakernaak at papercept.net}}%
+% \thanks{$^{2}$P. Misra is with the Department of Electrical Engineering, Wright State University,
+%         Dayton, OH 45435, USA
+%         {\tt\small p.misra at ieee.org}}%
+% }
+
 
 \begin{document}
+
+
 \maketitle
+%\thispagestyle{empty}
+%\pagestyle{empty}
+\thispagestyle{plain}
+\pagestyle{plain}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%% Abstract %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \begin{abstract}
-Your abstract.
+%	\rednote{I just want to finish the abstract, after the manuscript is ready.}
+This paper surveys ...
 \end{abstract}
+
+\begin{keywords}
+	reinforcement learning, neural combinatorial optimization, vehicle routing
+\end{keywords}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%% Introduction Section %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Introduction}
 
-Your introduction goes here! Simply start writing your document and use the Recompile button to view the updated PDF preview. Examples of commonly used commands and features are listed below, to help you get started.
-
-Once you're familiar with the editor, you can find various project setting in the Overleaf menu, accessed via the button in the very top left of the editor. To view tutorials, user guides, and further documentation, please visit our \href{https://www.overleaf.com/learn}{help library}, or head to our plans page to \href{https://www.overleaf.com/user/subscription/plans}{choose your plan}.
-
-\section{Some examples to get started}
-
-\subsection{How to create Sections and Subsections}
-
-Simply use the section and subsection commands, as in this example document! With Overleaf, all the formatting and numbering is handled automatically according to the template you've chosen. If you're using Rich Text mode, you can also create new section and subsections via the buttons in the editor toolbar.
-
-\subsection{How to include Figures}
-
-First you have to upload the image file from your computer using the upload link in the file-tree menu. Then use the includegraphics command to include it in your document. Use the figure environment and the caption command to add a number and a caption to your figure. See the code for Figure \ref{fig:frog} in this section for an example.
-
-Note that your figure will automatically be placed in the most appropriate place for it, given the surrounding text and taking into account other figures or tables that may be close by. You can find out more about adding images to your documents in this help article on \href{https://www.overleaf.com/learn/how-to/Including_images_on_Overleaf}{including images on Overleaf}.
-
-\begin{figure}
-\centering
-\includegraphics[width=0.3\textwidth]{frog.jpg}
-\caption{\label{fig:frog}This frog was uploaded via the file-tree menu.}
-\end{figure}
-
-\subsection{How to add Tables}
-
-Use the table and tabular environments for basic tables --- see Table~\ref{tab:widgets}, for example. For more information, please see this help article on \href{https://www.overleaf.com/learn/latex/tables}{tables}. 
-
-\begin{table}
-\centering
-\begin{tabular}{l|r}
-Item & Quantity \\\hline
-Widgets & 42 \\
-Gadgets & 13
-\end{tabular}
-\caption{\label{tab:widgets}An example table.}
-\end{table}
-
-
-
-\subsection{How to add Lists}
-
-You can make lists with automatic numbering \dots
-
-\begin{enumerate}
-\item Like this,
-\item and like this.
-\end{enumerate}
-\dots or bullet points \dots
-\begin{itemize}
-\item Like this,
-\item and like this.
-\end{itemize}
-
-\subsection{How to write Mathematics}
-
-\LaTeX{} is great at typesetting mathematics. Let $X_1, X_2, \ldots, X_n$ be a sequence of independent and identically distributed random variables with $\text{E}[X_i] = \mu$ and $\text{Var}[X_i] = \sigma^2 < \infty$, and let
-\[S_n = \frac{X_1 + X_2 + \cdots + X_n}{n}
-      = \frac{1}{n}\sum_{i}^{n} X_i\]
-denote their mean. Then as $n$ approaches infinity, the random variables $\sqrt{n}(S_n - \mu)$ converge in distribution to a normal $\mathcal{N}(0, \sigma^2)$.
-
-
-\subsection{How to change the margins and paper size}
-
-Usually the template you're using will have the page margins and paper size set correctly for that use-case. For example, if you're using a journal article template provided by the journal publisher, that template will be formatted according to their requirements. In these cases, it's best not to alter the margins directly.
-
-If however you're using a more general template, such as this one, and would like to alter the margins, a common way to do so is via the geometry package. You can find the geometry package loaded in the preamble at the top of this example file, and if you'd like to learn more about how to adjust the settings, please visit this help article on \href{https://www.overleaf.com/learn/latex/page_size_and_margins}{page size and margins}.
-\cite{greenwade93}
-
-\bibliographystyle{alpha}
+\bibliographystyle{IEEEtran.bst}
 \bibliography{sample}
+
+\clearpage
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%es}
 
 \end{document}
