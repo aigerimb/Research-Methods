@@ -1,41 +1,7 @@
 # Research-Methods
 This repository contains papers and other resources for the Research Methods class 
 
-## New Papers
-## Reinforcement Learning Papers 
-1. [Solving Rubik's Cube with a Robot Hand](https://arxiv.org/pdf/1910.07113.pdf)
-2. [A Hybrid of Deep Reinforcement Learning and Local Search for the Vehicle Routing Problems](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9141401)
-3. [Continuous control with deep reinforcement learning](https://arxiv.org/pdf/1509.02971.pdf)
-4. [Variational Intrinsic Control](https://arxiv.org/pdf/1611.07507.pdf)
-5. [FeUdal Networks for Hierarchical Reinforcement Learning](https://arxiv.org/pdf/1703.01161.pdf)
-6. [Learning Dexterous In-Hand Manipulation](https://arxiv.org/pdf/1808.00177.pdf)
-7. [The Reactor: A fast and sample-efficient Actor-Critic agent for Reinforcement Learning](https://arxiv.org/pdf/1704.04651.pdf)
-
-
-
-## NLP Papers 
-1. [Analysis Methods in Neural Language Processing: A Survey](https://aclanthology.org/Q19-1004.pdf)
-2. [Jukebox: A Generative Model for Music](https://arxiv.org/pdf/2005.00341.pdf)
-3. [RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/abs/1907.11692)
-4. [High Fidelity Speech Synthesis with Adversarial Networks](https://arxiv.org/pdf/1909.11646.pdf)
-5. [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf)
-6. [StructBERT: Incorporating Language Structures into Pre-training for Deep Language Understanding](https://arxiv.org/pdf/1908.04577.pdf)
-
-
-
-## CV papers 
-1. [Anycost GANs for Interactive Image Synthesis and Editing](https://arxiv.org/pdf/2103.03243.pdf)
-2. [Deep-Anomaly: Fully Convolutional Neural Network for Fast Anomaly Detection in Crowded Scenes](https://arxiv.org/pdf/1609.00866.pdf)
-3. [Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation](https://arxiv.org/pdf/2104.11116.pdf)
-4. [Zero-Shot Text-to-Image Generation](https://arxiv.org/pdf/2102.12092)
-5. [Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering](https://arxiv.org/pdf/1707.07998.pdf)
-6. [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020)
-7. [Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks](https://arxiv.org/pdf/2004.06165.pdf)
-
-
-
-
-## Past papers
+## New papers
 ## Reinforcement Learning Papers 
 1. [Playing Atari with Deep Reinforcement Learning, Algorithm: DQN.](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
 2. [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/abs/1602.01783)
@@ -70,6 +36,14 @@ This repository contains papers and other resources for the Research Methods cla
 31. [Proximal Policy Optimization Algorithms](https://arxiv.org/pdf/1707.06347.pdf)
 32. [Deterministic Policy Gradient Algorithms](http://proceedings.mlr.press/v32/silver14.pdf)
 33. [QT-Opt: Scalable Deep Reinforcement Learning for Vision-Based Robotic Manipulation](https://arxiv.org/pdf/1806.10293.pdf)
+34. [Solving Rubik's Cube with a Robot Hand](https://arxiv.org/pdf/1910.07113.pdf)
+35. [A Hybrid of Deep Reinforcement Learning and Local Search for the Vehicle Routing Problems](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9141401)
+36. [Continuous control with deep reinforcement learning](https://arxiv.org/pdf/1509.02971.pdf)
+37. [Variational Intrinsic Control](https://arxiv.org/pdf/1611.07507.pdf)
+38. [FeUdal Networks for Hierarchical Reinforcement Learning](https://arxiv.org/pdf/1703.01161.pdf)
+39. [Learning Dexterous In-Hand Manipulation](https://arxiv.org/pdf/1808.00177.pdf)
+40. [The Reactor: A fast and sample-efficient Actor-Critic agent for Reinforcement Learning](https://arxiv.org/pdf/1704.04651.pdf)
+
 
 
 ## NLP Papers 
@@ -96,6 +70,14 @@ This repository contains papers and other resources for the Research Methods cla
 21. [Deep content-based music recommendation](https://proceedings.neurips.cc/paper/2013/file/b3ba8f1bee1238a2f37603d90b58898d-Paper.pdf)
 22. [Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165v2.pdf)
 23. [Towards a Human-like Open-Domain Chatbot](https://arxiv.org/pdf/2001.09977.pdf)
+24. [Analysis Methods in Neural Language Processing: A Survey](https://aclanthology.org/Q19-1004.pdf)
+25. [Jukebox: A Generative Model for Music](https://arxiv.org/pdf/2005.00341.pdf)
+26. [RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/abs/1907.11692)
+27. [High Fidelity Speech Synthesis with Adversarial Networks](https://arxiv.org/pdf/1909.11646.pdf)
+28. [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf)
+29. [StructBERT: Incorporating Language Structures into Pre-training for Deep Language Understanding](https://arxiv.org/pdf/1908.04577.pdf)
+
+
 
 
 
@@ -128,4 +110,12 @@ This repository contains papers and other resources for the Research Methods cla
 26. [Old Photo Restoration via Deep Latent Space Translation](https://arxiv.org/pdf/2009.07047.pdf)
 27. [Deep Learning for Deepfakes Creation and Detection: A Survey](https://arxiv.org/pdf/1909.11573.pdf)
 28. [Very deep convolutional networks for large-scale image recognition](https://arxiv.org/pdf/1409.1556.pdf)
+29. [Anycost GANs for Interactive Image Synthesis and Editing](https://arxiv.org/pdf/2103.03243.pdf)
+30. [Deep-Anomaly: Fully Convolutional Neural Network for Fast Anomaly Detection in Crowded Scenes](https://arxiv.org/pdf/1609.00866.pdf)
+31. [Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation](https://arxiv.org/pdf/2104.11116.pdf)
+32. [Zero-Shot Text-to-Image Generation](https://arxiv.org/pdf/2102.12092)
+33. [Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering](https://arxiv.org/pdf/1707.07998.pdf)
+34. [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020)
+35. [Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks](https://arxiv.org/pdf/2004.06165.pdf)
+
 
