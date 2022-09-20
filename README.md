@@ -122,5 +122,5 @@ This repository contains papers and other resources for the Research Methods cla
 14. [Deep Learning for Hate Speech Detection in Tweets](https://arxiv.org/pdf/1706.00188.pdf)
 21. [Deep content-based music recommendation](https://proceedings.neurips.cc/paper/2013/file/b3ba8f1bee1238a2f37603d90b58898d-Paper.pdf)
 
-#CV
+# CV
 2. [ImageNet Classification with Deep Convolutional Neural Networks](https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)
