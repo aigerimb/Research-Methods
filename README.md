@@ -47,7 +47,7 @@ This repository contains papers and other resources for the Research Methods cla
 
 
 ## NLP Papers 
-1. [Attention is all you need](https://papers.nips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
+
 2. [Sequence to sequence model](https://papers.nips.cc/paper/2014/file/a14ac55a4f27472c5d894ec1c3c743d2-Paper.pdf)
 3. [Neural machine translation by jointly learning to align and translate](https://arxiv.org/abs/1409.0473)
 4. [WinoGrande: An Adversarial Winograd Schema Challenge at Scale](https://arxiv.org/pdf/1907.10641.pdf)
@@ -60,14 +60,12 @@ This repository contains papers and other resources for the Research Methods cla
 11.[A Neural Conversational Model](https://arxiv.org/pdf/1506.05869.pdf)
 12.[Emotion-Cause Pair Extraction: A New Task To Emotion Analysis In Texts](https://arxiv.org/pdf/1906.01267.pdf)
 13. [ALBERT: A LITE BERT FOR SELF-SUPERVISED LEARNING OF LANGUAGE REPRESENTATIONS](https://arxiv.org/pdf/1909.11942.pdf)
-14. [Deep Learning for Hate Speech Detection in Tweets](https://arxiv.org/pdf/1706.00188.pdf)
 15. [Thumbs Up or Thumbs Down? Semantic Orientation Applied to Unsupervised Classification of Reviews](https://aclanthology.org/P02-1053.pdf)
 16. [Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation](https://arxiv.org/abs/1609.08144)
 17. [Deep Speech 2: End-to-End Speech Recognition in English and Mandarin](https://arxiv.org/pdf/1512.02595.pdf)
 18. [Listen, attend and spell: A neural network for large vocabulary conversational speech recognition](https://arxiv.org/pdf/1508.01211.pdf)
 19. [Onsets and Frames: Dual-Objective Piano Transcription](https://arxiv.org/abs/1710.11153)
 20. [Restricted Boltzmann Machines for Collaborative Filtering](https://www.cs.toronto.edu/~rsalakhu/papers/rbmcf.pdf)
-21. [Deep content-based music recommendation](https://proceedings.neurips.cc/paper/2013/file/b3ba8f1bee1238a2f37603d90b58898d-Paper.pdf)
 22. [Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165v2.pdf)
 23. [Towards a Human-like Open-Domain Chatbot](https://arxiv.org/pdf/2001.09977.pdf)
 24. [Analysis Methods in Neural Language Processing: A Survey](https://aclanthology.org/Q19-1004.pdf)
@@ -83,7 +81,6 @@ This repository contains papers and other resources for the Research Methods cla
 
 ## CV papers 
 1. [Gated Graph Sequence Neural Networks](https://arxiv.org/abs/1511.05493)
-2. [ImageNet Classification with Deep Convolutional Neural Networks](https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)
 3. [Graph attention networks](https://arxiv.org/pdf/1710.10903.pdf)
 4. [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)
 5. [Pay attention to MLPs](https://arxiv.org/abs/2105.08050)
@@ -119,3 +116,11 @@ This repository contains papers and other resources for the Research Methods cla
 35. [Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks](https://arxiv.org/pdf/2004.06165.pdf)
 
 
+## Past Papers
+# NLP
+1. [Attention is all you need](https://papers.nips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
+14. [Deep Learning for Hate Speech Detection in Tweets](https://arxiv.org/pdf/1706.00188.pdf)
+21. [Deep content-based music recommendation](https://proceedings.neurips.cc/paper/2013/file/b3ba8f1bee1238a2f37603d90b58898d-Paper.pdf)
+
+#CV
+2. [ImageNet Classification with Deep Convolutional Neural Networks](https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)
