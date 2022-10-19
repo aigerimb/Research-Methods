@@ -49,16 +49,12 @@ This repository contains papers and other resources for the Research Methods cla
 ## NLP Papers 
 
 5. [Effective approaches to attention-based neural machine translation](https://arxiv.org/abs/1508.04025)
-6. [Convolutional sequence to sequence learning](http://proceedings.mlr.press/v70/gehring17a/gehring17a.pdf)
-8. [Reformer: The Efficient Transformer](https://arxiv.org/pdf/2001.04451.pdf)
 9. [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/pdf/1910.10683.pdf)
 10.[Neural Approaches to Conversational AI](https://arxiv.org/pdf/1809.08267.pdf)
 13. [ALBERT: A LITE BERT FOR SELF-SUPERVISED LEARNING OF LANGUAGE REPRESENTATIONS](https://arxiv.org/pdf/1909.11942.pdf)
-15. [Thumbs Up or Thumbs Down? Semantic Orientation Applied to Unsupervised Classification of Reviews](https://aclanthology.org/P02-1053.pdf)
 16. [Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation](https://arxiv.org/abs/1609.08144)
 17. [Deep Speech 2: End-to-End Speech Recognition in English and Mandarin](https://arxiv.org/pdf/1512.02595.pdf)
 18. [Listen, attend and spell: A neural network for large vocabulary conversational speech recognition](https://arxiv.org/pdf/1508.01211.pdf)
-19. [Onsets and Frames: Dual-Objective Piano Transcription](https://arxiv.org/abs/1710.11153)
 20. [Restricted Boltzmann Machines for Collaborative Filtering](https://www.cs.toronto.edu/~rsalakhu/papers/rbmcf.pdf)
 22. [Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165v2.pdf)
 23. [Towards a Human-like Open-Domain Chatbot](https://arxiv.org/pdf/2001.09977.pdf)
@@ -80,7 +76,6 @@ This repository contains papers and other resources for the Research Methods cla
 7. [DeCAF: A Deep Convolutional Activation Feature for Generic Visual Recognition](http://proceedings.mlr.press/v32/donahue14.pdf)
 8. [Visualizing and Understanding Convolutional Networks](https://cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf)
 9. [Face Detection with a 3D Model](https://arxiv.org/pdf/1404.3596.pdf)
-10. [Animating Pictures with Eulerian Motion Fields](https://openaccess.thecvf.com/content/CVPR2021/papers/Holynski_Animating_Pictures_With_Eulerian_Motion_Fields_CVPR_2021_paper.pdf)
 11. [Taming Transformers for High-Resolution Image Synthesis](https://openaccess.thecvf.com/content/CVPR2021/papers/Esser_Taming_Transformers_for_High-Resolution_Image_Synthesis_CVPR_2021_paper.pdf)
 12. [Deep learning-enabled medical computer vision](https://www.nature.com/articles/s41746-020-00376-2.pdf)
 14. [Densely Connected Convolutional Networks](https://arxiv.org/pdf/1608.06993.pdf)
@@ -116,6 +111,12 @@ This repository contains papers and other resources for the Research Methods cla
 27. [High Fidelity Speech Synthesis with Adversarial Networks](https://arxiv.org/pdf/1909.11646.pdf)
 4. [WinoGrande: An Adversarial Winograd Schema Challenge at Scale](https://arxiv.org/pdf/1907.10641.pdf)
 7. [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)
+19. [Onsets and Frames: Dual-Objective Piano Transcription](https://arxiv.org/abs/1710.11153)
+8. [Reformer: The Efficient Transformer](https://arxiv.org/pdf/2001.04451.pdf)
+10. [Animating Pictures with Eulerian Motion Fields](https://openaccess.thecvf.com/content/CVPR2021/papers/Holynski_Animating_Pictures_With_Eulerian_Motion_Fields_CVPR_2021_paper.pdf)
+15. [Thumbs Up or Thumbs Down? Semantic Orientation Applied to Unsupervised Classification of Reviews](https://aclanthology.org/P02-1053.pdf)
+6. [Convolutional sequence to sequence learning](http://proceedings.mlr.press/v70/gehring17a/gehring17a.pdf)
+
 
 # CV
 2. [ImageNet Classification with Deep Convolutional Neural Networks](https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)
