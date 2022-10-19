@@ -47,10 +47,9 @@ This repository contains papers and other resources for the Research Methods cla
 
 
 ## NLP Papers 
-4. [WinoGrande: An Adversarial Winograd Schema Challenge at Scale](https://arxiv.org/pdf/1907.10641.pdf)
+
 5. [Effective approaches to attention-based neural machine translation](https://arxiv.org/abs/1508.04025)
 6. [Convolutional sequence to sequence learning](http://proceedings.mlr.press/v70/gehring17a/gehring17a.pdf)
-7. [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)
 8. [Reformer: The Efficient Transformer](https://arxiv.org/pdf/2001.04451.pdf)
 9. [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/pdf/1910.10683.pdf)
 10.[Neural Approaches to Conversational AI](https://arxiv.org/pdf/1809.08267.pdf)
@@ -93,14 +92,12 @@ This repository contains papers and other resources for the Research Methods cla
 20. [Adam: A Method for Stochastic Optimization](https://arxiv.org/pdf/1412.6980.pdf)
 21. [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167.pdf)
 22. [Deep Learning using Rectified Linear Units (ReLU)](https://arxiv.org/pdf/1803.08375.pdf)
-23. [Generative Adversarial Networks](https://arxiv.org/pdf/1406.2661.pdf)
 24. [Deep Learning in Label-free Cell Classification](https://www.nature.com/articles/srep21471.pdf)
 25. [Generative Pretraining from Pixels](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf)
 27. [Deep Learning for Deepfakes Creation and Detection: A Survey](https://arxiv.org/pdf/1909.11573.pdf)
 28. [Very deep convolutional networks for large-scale image recognition](https://arxiv.org/pdf/1409.1556.pdf)
 29. [Anycost GANs for Interactive Image Synthesis and Editing](https://arxiv.org/pdf/2103.03243.pdf)
 30. [Deep-Anomaly: Fully Convolutional Neural Network for Fast Anomaly Detection in Crowded Scenes](https://arxiv.org/pdf/1609.00866.pdf)
-31. [Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation](https://arxiv.org/pdf/2104.11116.pdf)
 32. [Zero-Shot Text-to-Image Generation](https://arxiv.org/pdf/2102.12092)
 33. [Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering](https://arxiv.org/pdf/1707.07998.pdf)
 34. [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020)
@@ -117,9 +114,13 @@ This repository contains papers and other resources for the Research Methods cla
 11.[A Neural Conversational Model](https://arxiv.org/pdf/1506.05869.pdf)
 3. [Neural machine translation by jointly learning to align and translate](https://arxiv.org/abs/1409.0473)
 27. [High Fidelity Speech Synthesis with Adversarial Networks](https://arxiv.org/pdf/1909.11646.pdf)
+4. [WinoGrande: An Adversarial Winograd Schema Challenge at Scale](https://arxiv.org/pdf/1907.10641.pdf)
+7. [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)
 
 # CV
 2. [ImageNet Classification with Deep Convolutional Neural Networks](https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)
 6. [Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385.pdf)
 13. [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640.pdf)
 26. [Old Photo Restoration via Deep Latent Space Translation](https://arxiv.org/pdf/2009.07047.pdf)
+23. [Generative Adversarial Networks](https://arxiv.org/pdf/1406.2661.pdf)
+31. [Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation](https://arxiv.org/pdf/2104.11116.pdf)
